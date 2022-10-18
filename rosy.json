@@ -1,0 +1,28 @@
+{
+  "response": [
+    {
+	"maintainer": "A³-Project™",
+	"oem": "Xiaomi",
+	"device": "Redmi 5",
+	"filename": "",
+	"download": "",
+	"timestamp": "",
+	"md5": "",
+	"sha256": "",
+	"size": "",
+	"version": "6.0",
+	"buildtype": "Vanilla",
+	"forum": "https://t.me/a3discussion",
+	"gapps": "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-T/08-Sep-2022/NikGapps-core-arm64-13-20220908-signed.zip/download",
+	"firmware": "https://bigota.d.miui.com/V11.0.2.0.ODAMIXM/miui_HM5Global_V11.0.2.0.ODAMIXM_25c20fae94_8.1.zip",
+	"modem": "https://mirrors.gigenet.com/OSDN//storage/g/x/xi/xiaomifirmwareupdater/Stable/V11/rosy/fw_rosy_miui_HM5Global_V11.0.2.0.ODAMIXM_25c20fae94_8.1.zip",
+	"bootloader": "",
+	"recovery": "https://sourceforge.net/projects/baunilla/files/rosy/twrp-3.6.2_11-7-rosy.img/download",
+	"paypal": "https://www.paypal.me/aepranata",
+	"telegram": "https://t.me/aepranata",
+	"dt": "https://github.com/a3project/android_device_xiaomi_rosy",
+	"common-dt": "",
+	"kernel": "https://github.com/a3project/android_kernel_xiaomi_rosy"
+    }
+  ]
+}

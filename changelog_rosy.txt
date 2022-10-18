@@ -1,0 +1,10 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Redmi 3S/3X/4/4A/4X/5A/Note 5A (Mi8937)
+Device maintainer: A³-Project
+Required firmware: Supports M/N/O Firmwares
+
+===== 2022-10-03 =====
+• Initial build
+• Shipped with kernel 4.9.330
+• Shipped with Mi Sound Enhancer
